@@ -1,0 +1,7 @@
+anthropic
+openai
+sentence-transformers
+chromadb
+python-dotenv
+fastapi
+uvicorn[standard]
